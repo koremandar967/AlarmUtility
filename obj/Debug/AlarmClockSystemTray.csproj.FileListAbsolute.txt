@@ -1,0 +1,24 @@
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\bin\Debug\AlarmClockSystemTray.exe.config
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\bin\Debug\AlarmClockSystemTray.exe
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\bin\Debug\AlarmClockSystemTray.pdb
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.g.resources
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.AlarmSettingsForm.resources
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.Properties.Resources.resources
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.csproj.GenerateResource.Cache
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.exe
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.pdb
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.MainForm.resources
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\countdownTimer.AboutBox1.resources
+C:\Users\Mandar\Documents\MSDN\AlarmClockSystemTray - CS\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.countdown.resources
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\bin\Debug\AlarmClockSystemTray.exe.config
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.exe
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.pdb
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\bin\Debug\AlarmClockSystemTray.exe
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\bin\Debug\AlarmClockSystemTray.pdb
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.csprojResolveAssemblyReference.cache
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.g.resources
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.AlarmSettingsForm.resources
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.Properties.Resources.resources
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.csproj.GenerateResource.Cache
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.Alarm_Utility.resources
+D:\TE\SEM VI\C # my project\Alarm tray\AlarmClockSystemTray\obj\Debug\AlarmClockSystemTray.countdown.resources
